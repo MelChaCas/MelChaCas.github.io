@@ -1,0 +1,23 @@
+---
+title: "Melany Chavez
+Industrial Engineer"
+image: "head.shot.2.jpg"
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/MelChaCas]
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/melany-chavez-castillo/]
+    - icon: inboxes
+      text: Contact
+      href: mailto:[mchavez3@uark.edu]
+---
+
+I'm an aspiring Industrial Engineering student at the University of Arkansas, graduating in May 2029, with a focus on manufacturing, systems engineering, engineering management, quality control, and data analytics. I'm drawn to industrial engineering for its emphasis on problem-solving, data-driven decision-making, and systems optimization, using analytical tools to improve operations and create sustainable impact.
+
+Beyond my classes, I serve as Secretary for the Global Affairs Council, compete with the Model UN team, am a member of the Gamma Beta Phi honor society, compete in NASA's Lunabotics Challenge, and regularly volunteer around campus and my community. Balancing full-time coursework with work as a childcare provider has strengthened my time management, adaptability, and ability to perform under pressure.
+
+I'm seeking summer 2027 internships in manufacturing, quality management, or sustainability—particularly with organizations and companies driving operational excellence. I'm also excited about international opportunities that would broaden my global perspective on industrial systems.

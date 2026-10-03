@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "E-Porfolio Blog"
+  
+  navbar:
+    right:
+      - text: Home
+        icon: house
+        href: index.qmd
+      - text: About
+        icon: person-circle
+        href: about.qmd
+      - text: Resume
+        icon: file-person-fill
+        href: resume.qmd
+      - text: Projects
+        icon: folder-fill
+        href: projects.qmd
+      - icon: github
+        href: https://github.com/MelChaCas
+        aria-label: GitHub
+      - icon: linkedIn
+        href: https://www.linkedin.com/in/melany-chavez-castillo/
+        aria-label: LinkedIn
+      
+format:
+  html:
+    theme:
+      - solar
+    css: styles.css
+
+editor: visual
+

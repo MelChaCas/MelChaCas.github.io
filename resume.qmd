@@ -1,0 +1,11 @@
+---
+title: "Resume"
+format: html
+page-layout: full
+---
+
+<iframe src="Melany_Chavez_Resume.2026.pdf" width="100%" height="900px" style="border:none;">
+
+</iframe>
+
+[Download my resume (PDF)](Melany_Chavez_Resume.2026.pdf)

@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download my resume (PDF)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Melany Chavez Industrial Engineer",
+    "section": "",
+    "text": "I’m an aspiring Industrial Engineering student at the University of Arkansas, graduating in May 2029, with a focus on manufacturing, systems engineering, engineering management, quality control, and data analytics. I’m drawn to industrial engineering for its emphasis on problem-solving, data-driven decision-making, and systems optimization, using analytical tools to improve operations and create sustainable impact.\nBeyond my classes, I serve as Secretary for the Global Affairs Council, compete with the Model UN team, am a member of the Gamma Beta Phi honor society, compete in NASA’s Lunabotics Challenge, and regularly volunteer around campus and my community. Balancing full-time coursework with work as a childcare provider has strengthened my time management, adaptability, and ability to perform under pressure.\nI’m seeking summer 2027 internships in manufacturing, quality management, or sustainability—particularly with organizations and companies driving operational excellence. I’m also excited about international opportunities that would broaden my global perspective on industrial systems."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Aspiring Industrial Engineer",
+    "section": "",
+    "text": "I’m Melany, a first-gen Mexican American born and raised in Northwest Arkansas. I’m the third of four kids and the only daughter, which means I grew up learning to hold my own and to laugh a lot. These days, my brothers and I have all found our way back under one roof, and we share a house. Everyone pitches in, and somehow it works.\nI’m the first in my family to attend college, and I’m working toward being the first to graduate. That’s something I carry with gratitude, and with the hope that it helps pave the way for the generations after me. I recently transferred from NWACC to the University of Arkansas as a sophomore, and I’m thankful to be part of the College of Engineering and to learn from the people and opportunities here.\nMy mind is always busy, and I do my best when I’m active. During the semester, you’ll find me lifting, cooking, practicing yoga, studying, serving my community, or at church events. When I’m off the clock, I’m with family and friends, outside, or dancing."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nSep 29, 2026\n\n\n\n\n\n\nNo matching items"
+  }
+]
