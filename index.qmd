@@ -1,7 +1,7 @@
 ---
 title: "Melany Chavez
 Industrial Engineer"
-image: "head.shot.2.jpg"
+image: "new.shot.jpg"
 about:
   template: trestles
   links:
